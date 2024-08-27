@@ -15,6 +15,8 @@ Den här uppgiften bedöms inte.
 
 
 ## 📚  Resurser 
+* [Grafisk guide till git och GitHub](https://learngitbranching.js.org/)
+* [Skolans Komma-igång-guide](https://github.com/abbindustrigymnasium/GitHubTutorial-Hitachigymnasiet/blob/main/README.md)
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
 * [Git and GitHub learning resources](https://docs.github.com/en/github/getting-started-with-github/git-and-github-learning-resources) 
 * [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
